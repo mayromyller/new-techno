@@ -7,7 +7,7 @@ Project create in Origamid course 'VueJS 2 Completo'
 
 ## Layout
 
-<img src="../techno-vueapp-using-api-exemple/techno-cursos/src/assets/screenshot.png" />
+<img src="./techno-vueapp-using-api-exemple/techno-cursos/src/assets/screenshot.png" />
 
 <br />
 
